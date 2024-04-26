@@ -1,0 +1,277 @@
+{
+    "Drinks": {
+      "Hot Coffees": {
+        "Americanos": [
+            {"name": "Caffe Americano", "sizes": ["Tall", "Grande", "Venti"]}
+        ],
+        "Brewed Coffees": [
+            {"name": "Featured Blonde Roast", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Featured Medium Roast Pike Place Roast", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Featured Dark Roast", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Featured Decaf Roast Decaf Pike Place Roast", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Veranda Blend Clover Vertica™", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Caffè Misto", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Clover Vertica Anniversary Blend", "sizes": ["Tall", "Grande", "Venti"]}
+        ],
+        "Cappuccinos": [
+            {"name": "Cappuccino", "sizes": ["Tall", "Grande", "Venti"]}
+        ],
+        "Flat Whites": [
+            {"name": "Flat White", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Honey Almondmilk Flat White", "sizes": ["Tall", "Grande", "Venti"]}
+        ],
+        "Expresso Shots": [
+            {"name": "Expresso", "sizes": ["Solo", "Doppio", "Triple"]},
+            {"name": "Espresso Con Panna", "sizes": ["Solo", "Triple"]}
+        ],
+        "Lattes": [
+            {"name": "Lavender Oatmilk Latte", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Oleato Caffe Latte with Oatmilk", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Pistachio Latte", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Caffe Latte", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Cinnamon Dolce Latte", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Blonde Vanilla Latte", "sizes": ["Tall", "Grande", "Venti"]}
+        ],
+        "Macchiatos": [
+            {"name": "Carmel Machhiato", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Espresso Machhiato", "sizes": ["Tall", "Grande", "Venti"]}
+        ]
+      },
+      "Cold Coffees": {
+        "Iced Americanos": [
+          {"name": "Iced Caffe Americano", "sizes": ["Tall", "Grande", "Venti"]}
+        ],
+        "Iced Lattes": [
+          {"name": "Iced Lavender Oatmilk Latte", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Iced Pistachio Latte", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Iced Starbucks Blonde Vanilla Latte", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Iced Caffe Latte", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Iced Cinnamon Dolce Latte", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Lavender Oatmilk Chill", "sizes": ["Tall", "Grande", "Venti"]}
+        ],
+        "Iced Macchiatos": [
+          {"name": "Iced Caramel Macchiato", "sizes": ["Tall", "Grande", "Venti"]}
+        ],
+        "Iced Coffees": [
+          {"name": "Iced Coffee", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+          {"name": "Iced Coffee with Milk", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+          {"name": "Iced Espresso", "sizes": ["Solo", "Doppio"]}
+        ],
+        "Iced Shaken Espresso": [
+          {"name": "Iced Hazelnut Oatmilk Shaken Espresso", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Iced Brown Sugar Oatmilk Shaken Espresso", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Oleato Golden Foam Iced Shaken Espresso with Toffee Nut", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Iced Shaken Espresso", "sizes": ["Tall", "Grande", "Venti"]}
+        ],
+        "Cold Brews": [
+          {"name": "Pistachio Cream Cold Brew", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+          {"name": "Cinnamon Caramel Cream Cold Brew", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+          {"name": "Salted Caramel Cream Cold Brew", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+          {"name": "Chocolate Cream Cold Brew", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+          {"name": "Starbucks Cold Brew Coffee", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+          {"name": "Starbucks Cold Brew Coffee with Milk", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+          {"name": "Vanilla Sweet Cream Cold Brew", "sizes": ["Tall", "Grande", "Venti", "Trenta"]}
+        ],
+        "Nitro Cold Brews": [
+          {"name": "Cinnamon Caramel Cream Nitro Cold Brew", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Nitro Cold Brew", "sizes": ["Tall", "Grande", "Venti"]},
+          {"name": "Vanilla Sweet Cream Nitro Cold Brew", "sizes": ["Tall", "Grande", "Venti"]}
+        ]
+      },
+      "Starbucks Refreshers": {
+        "Spicy Lemonades": [
+            {"name": "Spicy Pineapple", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Spicy Dragonfruit", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Spicy Strawberry", "sizes": ["Tall", "Grande", "Venti", "Trenta"]}
+          ],
+          "Lemonades and Frozen": [
+            {"name": "Strawberry Acai Lemonade Starbucks Refreshers Beverage", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Mango Dragonfruit Lemonade Starbucks Refreshers Beverage", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Pineapple Passionfruit Lemonade Starbucks Refreshers Beverage", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Frozen Strawberry Acai Lemonade Starbucks Refreshers Beverage", "sizes": ["Tall", "Grande", "Venti"]}
+          ],
+          "Coconutmilk Collection": [
+            {"name": "Pink Drink Starbucks Refreshers Beverage", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Dragon Drink Starbucks Refreshers Beverage", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Paradise Drink Starbucks Refreshers Beverage with Oleato Golden Foam™", "sizes": ["Tall", "Grande", "Venti", "Trenta"]}
+          ],
+          "Classics": [
+            {"name": "Strawberry Acai Starbucks Refreshers Beverage", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Mango Dragonfruit Starbucks Refreshers Beverage", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Pineapple Passionfruit Starbucks Refreshers Beverage", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Dragon Drink Starbucks Refreshers Beverage with Oleato Golden Foam™", "sizes": ["Tall", "Grande", "Venti", "Trenta"]}
+          ]
+      },
+      "Frappuccino Blended Beverages": {
+        "Creme Frappuccino": [
+            {"name": "Lavender Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Pistachio Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Chocolate Cookie Crumble Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Caramel Ribbon Crunch Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Strawberry Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Chai Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Double Chocolaty Chip Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Matcha Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Vanilla Bean Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "White Chocolate Creme Frappuccino", "sizes": ["Tall", "Grande", "Venti"]}
+          ],
+          "Coffee Frappuccino": [
+            {"name": "Pistachio Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Mocha Cookie Crumble Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Caramel Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Coffee Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Espresso Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Mocha Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Caffe Vanilla Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Java Chip Frappuccino", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "White Chocolate Mocha Frappuccino", "sizes": ["Tall", "Grande", "Venti"]}
+          ]
+      },
+      "Iced Teas": {
+        "Iced Black Teas": [
+            {"name": "Iced Black Tea", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Iced Black Tea Lemonade", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Iced Royal English Breakfast Tea Latte", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Iced London Fog Tea Latte", "sizes": ["Tall", "Grande", "Venti"]}
+          ],
+          "Iced Chai Teas": [
+            {"name": "Iced Chai Tea Latte", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Iced Chai Tea Latte with Golden Foam", "sizes": ["Tall", "Grande", "Venti"]}
+          ],
+          "Iced Green Teas": [
+            {"name": "Iced Lavender Cream Oatmilk Matcha", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Iced Peach Green Tea", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Iced Peach Green Tea Lemonade", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Iced Green Tea", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Iced Green Tea Lemonade", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Iced Matcha Lemonade", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Iced Matcha Tea Latte", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Iced Matcha Tea Latte with Golden Foam", "sizes": ["Tall", "Grande", "Venti"]}
+          ],
+          "Iced Herbal Teas": [
+            {"name": "Iced Passion Tango Tea", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Iced Passion Tango Tea Lemonade", "sizes": ["Tall", "Grande", "Venti", "Trenta"]}
+          ],
+          "Lemonades": [
+            {"name": "Lemonade", "sizes": ["Tall", "Grande", "Venti", "Trenta"]},
+            {"name": "Blended Strawberry Lemonade", "sizes": ["Tall", "Grande", "Venti"]}
+          ]
+      },
+      "Hot Teas": {
+            "Chai Teas": [
+              {"name": "Chai Tea Latte", "sizes": ["Tall", "Grande", "Venti"]},
+              {"name": "Chai Tea", "sizes": ["Tall", "Grande", "Venti"]}
+            ],
+            "Black Teas": [
+              {"name": "Earl Grey Tea", "sizes": ["Tall", "Grande", "Venti"]},
+              {"name": "Teavana London Fog Tea Latte", "sizes": ["Tall", "Grande", "Venti"]},
+              {"name": "Royal English Breakfast Tea", "sizes": ["Tall", "Grande", "Venti"]},
+              {"name": "Royal English Breakfast Tea Latte", "sizes": ["Tall", "Grande", "Venti"]}
+            ],
+            "Green Teas": [
+              {"name": "Emperor's Clouds & Mist", "sizes": ["Tall", "Grande", "Venti"]},
+              {"name": "Matcha Tea Latte", "sizes": ["Tall", "Grande", "Venti"]},
+              {"name": "Honey Citrus Mint Tea", "sizes": ["Tall", "Grande", "Venti"]}
+            ],
+            "Herbal Teas": [
+                {"name": "Mint Majesty", "sizes": ["Tall", "Grande", "Venti"]}
+            ]
+      },
+      "Hot Beverages": {
+        "Hot Chocolates": [
+            {"name": "Hot Chocolate", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "White Hot Chocolate", "sizes": ["Tall", "Grande", "Venti"]}
+          ],
+          "Juice": [
+            {"name": "Caramel Apple Spice", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Steamed Apple Juice", "sizes": ["Tall", "Grande", "Venti"]}
+          ],
+          "Steamers": [
+            {"name": "Pistachio Creme", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Steamed Milk", "sizes": ["Tall", "Grande", "Venti"]},
+            {"name": "Vanilla Creme", "sizes": ["Tall", "Grande", "Venti"]}
+          ]
+      }
+    },
+    "Food": {
+      "Hot Breakfast": {
+        "Breakfast Sandwiches & Wraps": [
+            {"name": "Chicken, Maple Butter & Egg Sandwich"},
+            {"name": "Bacon, Sausage & Egg Wrap"},
+            {"name": "Double-Smoked Bacon, Cheddar & Egg Sandwich"},
+            {"name": "Turkey Bacon, Cheddar & Egg White Sandwich"},
+            {"name": "Impossible Breakfast Sandwich"},
+            {"name": "Bacon, Gouda & Egg Sandwich"},
+            {"name": "Spinach, Feta & Egg White Wrap"},
+            {"name": "Avocado Spread"}
+          ],
+          "Bakes & Egg Bites": [
+            {"name": "Potato, Cheddar & Chive Bakes"},
+            {"name": "Kale & Mushroom Egg Bites"},
+            {"name": "Bacon & Gruyere Egg Bites"},
+            {"name": "Egg White & Roasted Red Pepper Egg Bites"}
+          ]
+      },
+      "Bakery": {
+        "Bagels": [
+            {"name": "Plain Bagel"},
+            {"name": "Everything Bagel"},
+            {"name": "Avocado Spread"}
+          ],
+          "Cake Pops": [
+            {"name": "Cookies & Cream Cake Pop"},
+            {"name": "Birthday Cake Pop"},
+            {"name": "Chocolate Cake Pop"}
+          ],
+          "Cookies, Brownies & Bars": [
+            {"name": "Double Chocolate Brownie"},
+            {"name": "Chocolate Chip Cookie"},
+            {"name": "Marshmallow Dream Bar"}
+          ],
+          "Croissants": [
+            {"name": "Ham & Swiss Croissant"},
+            {"name": "Butter Croissant"},
+            {"name": "Chocolate Croissant"}
+          ],
+          "Loaves, Cakes & Buns": [
+            {"name": "Cinnamon Coffee Cake"},
+            {"name": "Iced Lemon Loaf"},
+            {"name": "Pumpkin & Pepita Loaf"},
+            {"name": "Banana Walnut & Pecan Loaf"}
+          ],
+          "Danishes & Doughnuts": [
+            {"name": "Vanilla Bean Custard Danish"},
+            {"name": "Cheese Danish"},
+            {"name": "Glazed Doughnut"}
+          ],
+          "Muffins & Scones": [
+            {"name": "Blueberry Scone"},
+            {"name": "Petite Vanilla Bean Scone"},
+            {"name": "Blueberry Muffin"}
+          ]
+      },
+      "Lunch": {
+        "Warm Sandwiches": [
+            {"name": "Crispy Grilled Cheese on Sourdough"},
+            {"name": "Ham & Swiss on Baguette"},
+            {"name": "Turkey, Provolone & Pesto on Ciabatta"},
+            {"name": "Tomato & Mozzarella on Focaccia"},
+            {"name": "Avocado Spread"}
+        ],
+        "Protein Boxes": [
+            {"name": "Eggs & Gouda Protein Box"},
+            {"name": "Cheese Trio Protein Box"},
+            {"name": "PB&J Protein Box"},
+            {"name": "Cheese & Fruit Protein Box"},
+            {"name": "Cheddar & Uncured Salami Protein Box"},
+            {"name": "Eggs & Cheddar Protein Box"}
+        ]
+      },
+      "Oatmeal & Yogurt": {
+        "Oatmeal & Yogurt": [
+            {"name": "Rolled and Steel-Cut Oatmeal"},
+            {"name": "Berry Trio Parfait"}
+        ]
+      }
+    }
+}
